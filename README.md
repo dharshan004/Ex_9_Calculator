@@ -23,11 +23,14 @@ Step 7: Save and run the application.
 ## PROGRAM:
 /*
 Program to print the text “calculator operation”.
-Developed by: S DHARSHAN
+
+Developed by: dharshan S
+
 Registeration Number : 212222040036
 */
 
 ## activity_main.xml:
+
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout
@@ -176,7 +179,10 @@ Registeration Number : 212222040036
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
+
+
 ## MainActivity.java:
+
 ```
 package com.example.exp9;
 
@@ -270,11 +276,16 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 
+
 ## OUTPUT
 
-![MAD EXP-9(1)](https://github.com/user-attachments/assets/079559e7-2f6b-49ae-b3e6-e905674b209c)
 
-![MAD EXP-9(2)](https://github.com/user-attachments/assets/17132943-5895-431e-8fe7-4fc338220fbd)
+![image](https://github.com/user-attachments/assets/4b8b1c0f-6d98-48e2-8231-e4283eed5a47)
+
+
+![image](https://github.com/user-attachments/assets/702753d0-5eb0-4fa2-a35a-1f246c9006ef)
+
+
 
 
 ## RESULT
